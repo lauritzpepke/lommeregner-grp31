@@ -11,10 +11,10 @@ public class Main {
         første = Lauritz.nextInt();
         System.out.println("skriv andet nummer: ");
         andet = Lauritz.nextInt();
-        svar = første * andet + 10;
+        svar = første + andet;
         System.out.println(svar);
 
-        //test1
+
 
 
 

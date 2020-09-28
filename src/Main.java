@@ -14,6 +14,8 @@ public class Main {
         svar = første * andet;
         System.out.println(svar);
 
+        // commit kommentar
+
     }
 }
 

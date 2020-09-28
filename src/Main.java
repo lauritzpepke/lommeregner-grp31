@@ -11,7 +11,7 @@ public class Main {
         første = Lauritz.nextInt();
         System.out.println("skriv andet nummer: ");
         andet = Lauritz.nextInt();
-        svar = første * andet;
+        svar = første * andet + 1;
         System.out.println(svar);
 
         // commit kommentar
